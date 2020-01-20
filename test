@@ -1,0 +1,10 @@
+list = []
+book = "the end is near is"
+splitBook = book.split()
+splitBookLen = len(book.split())
+splitBookOcr = book.count("is")
+
+print(splitBook)
+print(splitBookLen)
+print(splitBookOcr)
+
