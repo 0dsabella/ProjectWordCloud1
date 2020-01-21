@@ -4,6 +4,12 @@ splitBook = book.split()
 splitBookLen = len(book.split())
 splitBookOcr = book.count("is")
 
+for i in range(splitBookLen):
+  print(splitbook[i])
+  for i in range(splitBookLen):
+    print(splitBookOcr)
+
+
 print(splitBook)
 print(splitBookLen)
 print(splitBookOcr)
