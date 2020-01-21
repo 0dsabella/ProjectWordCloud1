@@ -1,5 +1,6 @@
 list = []
-book = "the end is near is"
+file = open("pandp")
+book = file
 splitBook = book.split()
 splitBookLen = len(book.split())
 splitBookOcr = book.count("is")
