@@ -11,7 +11,3 @@ for i in range(splitBookLen):
     print(splitBookOcr)
 
 
-print(splitBook)
-print(splitBookLen)
-print(splitBookOcr)
-
